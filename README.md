@@ -8,6 +8,9 @@ Name of your teams' final project
 List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
+Research Mentor:
+- [Md Sultan Al Nahian](https://github.com/sultanalnahian) - `University of Kentucky`
+
 Developed by: 
 - [Elizabeth Eyeson](https://github.com/lizagit) - `University of Colorado Boulder`
 - [Kavisca Kuruparanantha](https://github.com/Kavisca) - `University of Kentucky` 
