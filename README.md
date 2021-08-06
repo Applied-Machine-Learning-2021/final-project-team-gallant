@@ -25,6 +25,7 @@ Goal-driven AI is susceptible to neglecting ethical concerns due to its blind pr
 Our models accomplish the following tasks: 
 1. Classification task where actions are classified as either normative or non-normative.
 2. Sequence generation task where sequences describing the intentions behind actions taken are produced.
+3. Deep Pyramid CNN were used an an efficient way to represent long-range associations in text for normative and non-normative classification.
 
 ## Usage instructions
 <!--
