@@ -9,22 +9,18 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 ## Table of Contents
-- [Team]
-- [Description]
-- [Model Tasks]
-- [Model Architectures]
-  - [Architecture With Bidirectional LSTM]
-  - [DPCNN]
-  - [Seq2Seq]
-- [Requirements]
-- [Usage Guide]
-    - [Bidirectional LSTM]
-    - [DPCNN]
-    - [Seq2Seq]
-- [Explanation of Components]
-  - [Bidirectional LSTM]
-  - [DPCNN]
-  - [Seq2Seq]
+- [Team](Team)
+- [Description](Description)
+- [Model Tasks](Model Tasks)
+- [Model Architectures](Model Architectures)
+  - [Architecture With Bidirectional LSTM](Architecture With Bidirectional LSTM)
+  - [DPCNN](DPCNN)
+  - [Seq2Seq](Seq2Seq)
+- [Requirements](Requirements)
+- [Usage Instructions](Usage Instructions)
+    - [Architecture With Bidirectional LSTM](Architecture With Bidirectional LSTM)
+    - [DPCNN](DPCNN)
+    - [Seq2Seq](Seq2Seq)
 
 ## Team
 - [Md Sultan Al Nahian](https://github.com/sultanalnahian) - `University of Kentucky` (Research Mentor)
@@ -49,12 +45,12 @@ Goal-driven AI is susceptible to neglecting ethical concerns due to its blind pr
 ![Bidirectional LSTM](./bidirectional-lstm-diagram.jpg)
 ### DPCNN
 - Implemented in DPCNN-master
-- Developed by Rje Johnson and Tong Zhong [(original source)](https://github.com/HaishuoFang/DPCNN)
+- Developed by Rje Johnson and Tong Zhong [(original repository)](https://github.com/HaishuoFang/DPCNN)
 - Performs classification task
 ![DPCNN](./DPCNN-master/DPCNN-master/img/dpcnn.png)
 ### Seq2Seq
 - Implemented in `seq-seq-learning-tensorflow.ipynb`
-- Derived from Tensorflow documentation [(original source)](https://www.tensorflow.org/addons/tutorials/networks_seq2seq_nmt)
+- Derived from Tensorflow documentation [(original documentation)](https://www.tensorflow.org/addons/tutorials/networks_seq2seq_nmt)
 - Performs sequence generation task
 ![Seq2Seq](seq2seq-diagram.jpg)
 
@@ -72,19 +68,9 @@ Give details on how to install fork and install your project. You can get all of
 -->
 ### Architecture With Bidirectional LSTM
 - Run `bidirectional-lstm.ipynb` in either Jupyter or Colab
--
 
 ### DPCNN
--
+- Run `run.py` in `./DPCNN-master/DPCNN-master` in IDE supporting Python
 
 ### Seq2Seq
 - Run `seq-seq-learning-tensorflow.ipynb` in either Jupyter or Colab
-
-## Important Helper Functions
-### Architecture With Bidirectional LSTM
--
-
-### DPCNN
--
-
-### Seq2Seq
