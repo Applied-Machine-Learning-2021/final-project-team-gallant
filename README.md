@@ -8,20 +8,6 @@ Name of your teams' final project
 List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
-## Table of Contents
-- [Team](Team)
-- [Description](Description)
-- [Model Tasks](Model Tasks)
-- [Model Architectures](Model Architectures)
-  - [Architecture With Bidirectional LSTM](Architecture With Bidirectional LSTM)
-  - [DPCNN](DPCNN)
-  - [Seq2Seq](Seq2Seq)
-- [Requirements](Requirements)
-- [Usage Instructions](Usage Instructions)
-    - [Architecture With Bidirectional LSTM](Architecture With Bidirectional LSTM)
-    - [DPCNN](DPCNN)
-    - [Seq2Seq](Seq2Seq)
-
 ## Team
 - [Md Sultan Al Nahian](https://github.com/sultanalnahian) - `University of Kentucky` (Research Mentor)
 - [Elizabeth Eyeson](https://github.com/lizagit) - `University of Colorado Boulder`
