@@ -47,16 +47,13 @@ Goal-driven AI is susceptible to neglecting ethical concerns due to its blind pr
 - Bidirectional LSTM and Seq2Seq code require either Jupyter or Colab
 - Seq2Seq code requires TensorFlow 2.0
 
-
 ## Usage Instructions
 <!--
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
 -->
 ### Architecture With Bidirectional LSTM
 - Run `bidirectional-lstm.ipynb` in either Jupyter or Colab
-
 ### DPCNN
 - Run `run.py` in `./DPCNN-master/DPCNN-master` in IDE supporting Python
-
 ### Seq2Seq
 - Run `seq-seq-learning-tensorflow.ipynb` in either Jupyter or Colab
