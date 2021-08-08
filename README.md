@@ -2,7 +2,7 @@
 Name of your teams' final project
 -->
 # Prior for Value-Aligned Agent
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
+## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `University of Kentucky`
 
 <!--
 List all of the members who developed the project and
